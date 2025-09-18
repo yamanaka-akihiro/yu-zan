@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.caaeb7cb.css",
+    "main.css": "/static/css/main.981de6a5.css",
     "main.js": "/static/js/main.78b1fbea.js",
     "static/js/453.1a16ed4e.chunk.js": "/static/js/453.1a16ed4e.chunk.js",
     "static/media/bg_desert_mono.png": "/static/media/bg_desert_mono.1b7c7f19642625817dfa.png",
     "index.html": "/index.html",
-    "main.caaeb7cb.css.map": "/static/css/main.caaeb7cb.css.map",
+    "main.981de6a5.css.map": "/static/css/main.981de6a5.css.map",
     "main.78b1fbea.js.map": "/static/js/main.78b1fbea.js.map",
     "453.1a16ed4e.chunk.js.map": "/static/js/453.1a16ed4e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.caaeb7cb.css",
+    "static/css/main.981de6a5.css",
     "static/js/main.78b1fbea.js"
   ]
 }
